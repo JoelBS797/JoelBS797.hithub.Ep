@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Epic Games Podcast</title>
+    <link>https://joelbs797.github.io/podcast/Podcast.html</link>
+    <description>Novedades, entrevistas y análisis sobre Epic Games</description>
+    <language>es</language>
+    <itunes:image href="https://joelbs797.github.Epic/images/Logo_Epic_Games.jpg"/>
+    
+    <!-- Episodio 1 -->
+    <item>
+      <title>Episodio 1: El futuro de Fortnite</title>
+      <link>https://joelbs797.github.io/podcast/Podcast.xml</link>
+      <description>Próximas actualizaciones de Fortnite y su impacto en la comunidad.</description>
+      <pubDate>Mon, 15 Apr 2024 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ep1-fortnite-future</guid>
+      <enclosure 
+        url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" 
+        type="audio/mpeg" 
+        length="10240000"/>
+      <itunes:duration>30:45</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
